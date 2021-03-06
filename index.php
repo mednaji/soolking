@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Musique</title>
-	<link rel="stylesheet" type="text/css" href="Musique.css">
+	<link rel="stylesheet" type="text/css" href="musique.css">
 	<link rel="stylesheet" type="text/css" href="normalize.css">
 	<link rel="stylesheet" media="screen and(max-width:800px)" type="text/css" href="mobile.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
@@ -28,6 +28,6 @@
 
 </body>
 <script type="text/javascript" src="jquery-2.1.3.min.js"></script>
-<script type="text/javascript" src="Musique.js"></script>
+<script type="text/javascript" src="musique.js"></script>
 
 </html>
